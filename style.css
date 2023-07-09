@@ -27,4 +27,44 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    text-align: center;
+    padding: 20PX;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    padding-top: 200px;
+    margin: auto;
+}
+
+.digital {
+    color: red;
+}
+
+.banner-container>h1,
+p {
+    padding: 10px;
+
+}
+
+.btn-1 {
+    background-color: rgb(244, 11, 23);
+    padding: 15px 30px;
+    color: #f9f6f6;
+    margin-right: 20px;
+
+border: none;
+
+}
+
+.btn-2 {
+
+    background-color: rgb(246, 241, 241);
+    padding: 15px 30px;
+    color: #0b0b0b;
+    border: none;
+margin-left: 20px;
+}
+
+.title {
+    color: #faf8f8;
 }
